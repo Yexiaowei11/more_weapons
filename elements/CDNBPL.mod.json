@@ -1,0 +1,19 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "v6s1i3_0x86enw4f0j3l",
+    "name": "[红石音乐]Flower Dance",
+    "description": "Flower Dance",
+    "creativeTab": {
+      "value": "CUSTOM:Ttoteyexiaowei"
+    },
+    "music": {
+      "value": "CUSTOM:flower_dance"
+    },
+    "specialInfo": [
+      "Flower Dance--yexiaowei"
+    ],
+    "hasGlow": false
+  }
+}

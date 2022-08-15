@@ -1,0 +1,27 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "mrs",
+    "customModelName": "model5:default",
+    "name": "Ddadao",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Zzuozhedewuqi"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 8,
+    "efficiency": 50.0,
+    "attackSpeed": 10.0,
+    "enchantability": 200,
+    "damageVsEntity": 10000.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "模组作者制作的红石音乐",
+    "icon": {
+      "value": "Blocks.NOTEBLOCK"
+    },
+    "showSearch": true
+  }
+}

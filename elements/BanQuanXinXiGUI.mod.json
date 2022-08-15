@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "command",
+  "definition": {
+    "commandName": "版权gui",
+    "permissionLevel": "No requirement",
+    "onCommandExecuted": {
+      "name": "WqDangYouJianDianJiKongQiShiShiTiDeWeiZhi"
+    }
+  }
+}

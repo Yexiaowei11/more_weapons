@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "v6s1i3_0x86enw4f0j3l",
+    "name": "[红石音乐]Theme of SSS",
+    "description": "yexiaowei-Theme of SSS",
+    "creativeTab": {
+      "value": "CUSTOM:Ttoteyexiaowei"
+    },
+    "music": {
+      "value": "CUSTOM:tos"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "更多武器",
+    "icon": {
+      "value": "Items.DIAMOND_SWORD"
+    },
+    "showSearch": false
+  }
+}

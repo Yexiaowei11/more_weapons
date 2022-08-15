@@ -1,0 +1,110 @@
+{
+  "_fv": 28,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 328,
+    "height": 199,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "制作人信息",
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "name": "制作人信息",
+          "x": 57,
+          "y": 30
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "红石块工作室（会长）",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "红石块工作室（会长）",
+          "x": 61,
+          "y": 48
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "快手：游戏主播叶歌",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "快手：游戏主播叶歌",
+          "x": 76,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "哔哩哔哩：红石块工作室",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "哔哩哔哩：红石块工作室",
+          "x": 76,
+          "y": 82
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "微博：红石块工作室",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "微博：红石块工作室",
+          "x": 76,
+          "y": 99
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fqsureqk3191br_qra2ajmij0aaf.png",
+          "use1Xscale": false,
+          "name": "fqsureqk3191br_qra2ajmij0aaf.png",
+          "x": 293,
+          "y": 31
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "红石块工作室 © 2022 版权所有",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "红石块工作室 © 2022 版权所有",
+          "x": 216,
+          "y": 189
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

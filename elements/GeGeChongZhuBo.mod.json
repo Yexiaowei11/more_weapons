@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "有名气的主播",
+    "icon": {
+      "value": "Blocks.LIGHT"
+    },
+    "showSearch": false
+  }
+}

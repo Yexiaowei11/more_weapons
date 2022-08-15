@@ -1,0 +1,126 @@
+{
+  "_fv": 28,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 304,
+    "height": 178,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "版权信息",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "版权信息",
+          "x": 73,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fqsureqk3191br_qra2ajmij0aaf.png",
+          "use1Xscale": false,
+          "name": "fqsureqk3191br_qra2ajmij0aaf.png",
+          "x": 73,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "禁止盗用！！！",
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "name": "禁止盗用！！！",
+          "x": 72,
+          "y": 55
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "红石块工作室 ©  2022 版权所有 ",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "红石块工作室 ©  2022 版权所有 ",
+          "x": 226,
+          "y": 188
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "如果发现盗版请联系作者",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "如果发现盗版请联系作者",
+          "x": 181,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "作者邮箱：730899229@QQ.com",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "作者邮箱：730899229@QQ.com",
+          "x": 181,
+          "y": 69
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "留言标题：模组被盗版",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "留言标题：模组被盗版",
+          "x": 181,
+          "y": 86
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "内容：被盗模组 ,盗版模组名字",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "内容：被盗模组 ,盗版模组名字",
+          "x": 182,
+          "y": 101
+        }
+      }
+    ],
+    "onOpen": {
+      "name": "BQDangMingLingBeiZhiXingShi"
+    },
+    "gridSettings": {
+      "sx": 14,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

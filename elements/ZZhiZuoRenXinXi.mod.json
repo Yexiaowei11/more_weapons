@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "command",
+  "definition": {
+    "commandName": "制作人信息",
+    "permissionLevel": "No requirement",
+    "onCommandExecuted": {
+      "name": "ZZhiZuoRenXinXi5"
+    }
+  }
+}
