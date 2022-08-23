@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:oak_sign"
+    },
+    "title": {
+      "translate": "advancements.b.title"
+    },
+    "description": {
+      "translate": "advancements.b.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "b": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

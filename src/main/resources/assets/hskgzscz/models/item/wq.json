@@ -1,0 +1,7 @@
+{
+  "parent": "hskgzscz:custom/model",
+  "textures": {
+    "0": "hskgzscz:blocks/texture",
+    "particle": "hskgzscz:items/mrs"
+  }
+}

@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Apple Public Source License version 2.0 (APSL)"
+
+[[mods]]
+modId="hskgzscz"
+version="1.6.5"
+displayName="更多工具"
+credits="yexiaowei,う黜售寂寞旧人旧 "
+displayURL="https://hsk666.mysxl.cn/"
+logoFile="logo.png"
+authors="yexiaowei"
+description='''
+更多武器与音乐唱片
+'''
+
+[[dependencies.hskgzscz]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.hskgzscz]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40.1.0]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
