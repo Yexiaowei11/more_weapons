@@ -1,0 +1,165 @@
+[235月2022 21:12:47.632] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 1.18, --assetsDir, C:\Users\yexiaowei\.mcreator\gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 40.1.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[235月2022 21:12:47.641] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Eclipse Adoptium
+[235月2022 21:12:47.846] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/yexiaowei/.mcreator/gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%2322!/ Service=ModLauncher Env=CLIENT
+[235月2022 21:12:50.872] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientuserdev' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\yexiaowei\.mcreator\gradle\caches\forge_gradle\assets, --assetIndex, 1.18]
+[235月2022 21:13:06.813] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/yexiaowei/.mcreator/gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18.2-40.1.0_mapped_official_1.18.2/forge-1.18.2-40.1.0_mapped_official_1.18.2-recomp.jar%2376!/assets/.mcassetsroot' uses unexpected schema
+[235月2022 21:13:06.814] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/yexiaowei/.mcreator/gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18.2-40.1.0_mapped_official_1.18.2/forge-1.18.2-40.1.0_mapped_official_1.18.2-recomp.jar%2376!/data/.mcassetsroot' uses unexpected schema
+[235月2022 21:13:06.830] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[235月2022 21:13:06.841] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[235月2022 21:13:07.076] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[235月2022 21:13:10.907] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.1.0, for MC 1.18.2 with MCP 20220404.173914
+[235月2022 21:13:10.909] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.1.0 Initialized
+[235月2022 21:13:13.759] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[235月2022 21:13:14.212] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: []
+[235月2022 21:13:14.919] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[235月2022 21:13:28.448] [Worker-Main-4/WARN] [net.minecraft.client.renderer.texture.TextureAtlas/]: Texture hskgzscz:items/v6s1i3_0x86enw4f0j3l with size 351x350 limits mip level from 2 to 0
+[235月2022 21:13:28.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[235月2022 21:13:32.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 40.1.0 Target: null
+[235月2022 21:13:36.332] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 扬声器 (Realtek High Definition Audio)
+[235月2022 21:13:36.333] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[235月2022 21:13:36.856] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x2 minecraft:textures/atlas/blocks.png-atlas
+[235月2022 21:13:36.866] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x2 minecraft:textures/atlas/signs.png-atlas
+[235月2022 21:13:36.867] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
+[235月2022 21:13:36.868] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
+[235月2022 21:13:36.870] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x2 minecraft:textures/atlas/chest.png-atlas
+[235月2022 21:13:36.870] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
+[235月2022 21:13:36.871] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x2 minecraft:textures/atlas/shulker_boxes.png-atlas
+[235月2022 21:13:38.639] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[235月2022 21:13:38.641] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[235月2022 21:13:38.642] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[235月2022 21:13:42.894] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[235月2022 21:13:52.080] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:11.018] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:13.490] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:14.166] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to localhost, 25463
+[235月2022 21:14:15.194] [Server Connector #1/ERROR] [net.minecraft.client.gui.screens.ConnectScreen/]: Couldn't connect to server
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:25463
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:672) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:707) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[235月2022 21:14:23.657] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to localhost, 25463
+[235月2022 21:14:24.670] [Server Connector #2/ERROR] [net.minecraft.client.gui.screens.ConnectScreen/]: Couldn't connect to server
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:25463
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:672) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:707) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-all-4.1.68.Final.jar%2332!/:4.1.68.Final]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[235月2022 21:14:29.073] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:31.833] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:35.609] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:43.217] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:48.601] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:49.305] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:49.713] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:50.009] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:50.169] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:50.330] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:50.561] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:50.745] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:51.721] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:51.833] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:51.937] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.042] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.153] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.257] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.361] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.473] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.577] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.681] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.793] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:52.897] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.001] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.113] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.217] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.321] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.425] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.538] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.641] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.746] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.857] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:14:53.961] [Render thread/WARN] [net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen/]: Unable to start LAN server detection: Cannot assign requested address: no further information
+[235月2022 21:15:14.247] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[235月2022 21:15:14.249] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[235月2022 21:15:14.253] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[235月2022 21:15:14.254] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[235月2022 21:15:14.256] [Render thread/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[235月2022 21:15:18.843] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[235月2022 21:15:21.641] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1142 advancements
+[235月2022 21:15:22.288] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[235月2022 21:15:22.325] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.18.2
+[235月2022 21:15:22.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[235月2022 21:15:22.473] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\saves\新的世界\serverconfig\forge-server.toml is not correct. Correcting
+[235月2022 21:15:22.476] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[235月2022 21:15:22.476] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[235月2022 21:15:22.477] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[235月2022 21:15:22.477] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[235月2022 21:15:22.478] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[235月2022 21:15:22.478] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[235月2022 21:15:22.478] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.skipEmptyShapelessCheck was corrected from null to its default, true. 
+[235月2022 21:15:22.479] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[235月2022 21:15:22.479] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[235月2022 21:15:23.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[235月2022 21:15:24.228] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[235月2022 21:15:24.228] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[235月2022 21:15:24.451] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[235月2022 21:15:25.178] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[235月2022 21:15:25.644] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[235月2022 21:15:25.922] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：4%
+[235月2022 21:15:26.648] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：4%
+[235月2022 21:15:27.202] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：4%
+[235月2022 21:15:29.330] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：35%
+[235月2022 21:15:29.330] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：35%
+[235月2022 21:15:29.330] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：35%
+[235月2022 21:15:29.330] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：35%
+[235月2022 21:15:29.478] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：82%
+[235月2022 21:15:30.203] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：85%
+[235月2022 21:15:30.514] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：95%
+[235月2022 21:15:30.524] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[235月2022 21:15:30.549] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7153 ms
+[235月2022 21:15:30.557] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 5, from 10
+[235月2022 21:15:30.560] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[235月2022 21:15:31.993] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[235月2022 21:15:32.036] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@686bdf6b
+[235月2022 21:15:32.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:4fa33e6d] logged in with entity id 3 at (-0.5, -60.0, -8.5)
+[235月2022 21:15:32.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev加入了游戏
+[235月2022 21:15:32.480] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 0 advancements
+[235月2022 21:15:40.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev取得了进度[版权信息]
+[235月2022 21:15:40.812] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [CHAT] Dev取得了进度[版权信息]
+[235月2022 21:15:40.830] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1 advancements
+[235月2022 21:15:49.525] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[235月2022 21:15:49.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[235月2022 21:15:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[235月2022 21:15:49.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[235月2022 21:15:50.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: 连接中止
+[235月2022 21:15:50.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev退出了游戏
+[235月2022 21:15:50.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[235月2022 21:15:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[235月2022 21:15:50.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[235月2022 21:15:50.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[235月2022 21:15:51.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:overworld
+[235月2022 21:15:59.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_nether
+[235月2022 21:15:59.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[新的世界]'/minecraft:the_end
+[235月2022 21:15:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[235月2022 21:15:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[235月2022 21:15:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[235月2022 21:15:59.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[235月2022 21:16:01.269] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

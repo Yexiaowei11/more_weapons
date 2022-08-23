@@ -1,0 +1,22 @@
+{
+  "hskgzscz:b": {
+    "criteria": {
+      "b": "2022-05-23 21:06:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-05-20 12:44:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-05-20 12:46:08 +0800",
+      "minecraft:jungle": "2022-05-20 12:44:29 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
